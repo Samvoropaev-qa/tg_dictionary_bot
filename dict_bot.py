@@ -5,7 +5,7 @@
 
 from telebot import TeleBot, types
 
-bot = TeleBot(token='5918564594:AAGCmU0gfECDjwCDnGu9HhD4iyZZ9qiYkew', parse_mode='html') # создание бота
+bot = TeleBot(token='вставить токен', parse_mode='html') # создание бота
 
 # словарь с определениями и аббревиатурами, которые знает бот в формате:
 # 'ключевая фраза': 'соответствующее ей определение'
